@@ -1,5 +1,5 @@
 # Snake game
-The game was written with python
+The game is written in python
 
 How to play a game?
 1. If you're on Windows - just download main_snake.exe file and execute it!
